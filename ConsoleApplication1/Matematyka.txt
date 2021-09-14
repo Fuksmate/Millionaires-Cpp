@@ -1,0 +1,120 @@
+Liczba 5 log 125 jest rowna
+5
+25
+125
+3/2
+D
+Cene x pewnego towaru obnizono o 20% i otrzymano cene y.Aby przywrocic cenę x, nową cenę y nalezy podniesc o
+20%
+22%
+24%
+25%
+D
+Prosta przechodzaca przez punkty A(3, -2) i B( 1, 6) jest okreslona równaniem
+y = 2k-4
+y = 14k-8
+y = -2k+8
+y = -14k+8
+B
+Punkt B jest obrazem punktu A = 3, 5 w symetrii wzgledem poczatku ukladu wspolrzednych.Dlugość odcinka AB jest rowna
+2 pierwiastki z 32
+2 pierwiastki z 34
+2 pierwiastki z 2
+2 pierwiastki z 3
+B
+Ile jest wszystkich dwucyfrowych liczb naturalnych utworzonych z cyfr 1, 3, 5, 7, 9, w których cyfry się nie powtarzają ?
+10
+15
+20
+5
+C
+Cztery liczby  2, 3, a, 8, tworzące zestaw danych, są uporządkowane rosnąco.Mediana tego zestawu czterech danych jest równa medianie zestawu pięciu danych  5, 3, 6, 8, 2. Zatem 
+4
+5
+6
+7
+D
+Przekątna sześcianu ma długość 4 pierwiastki z 3.Pole powierzchni tego sześcianu jest równe
+81
+96
+102
+48
+B
+Dany jest romb o boku długości 4 i kącie rozwartym 150stopni. Pole  tego rombu jest równe
+4
+5
+20
+8
+D
+Dane są punkty o współrzędnych A = 2, 5 oraz B = 4, -1. Średnica okręgu wpisanego w kwadrat o boku AB jest równa
+6 pierwiastkow z 2
+6 pierwiastkow z 3
+2 pierwiastki z 6
+3 pierwiastki z 6
+A
+Jakub, Pawel i Andrzej zbierają modele samochodów. Paweł ma o 8 modeli więcej niż Jakub, a Andrzej o 2 mniej niż Paweł. Ile modeli ma Andrzej, jeśli Jakub ma 16 modeli?
+21
+22
+24
+26
+B
+Liczba 5 jest rozwiązaniem równania: -5-x=... Zatem w miejsce kropek należy wstawić:
+2x-10
+3x
+x-15
+x-20
+C
+Ostrosłup prawidłowy pięciokątny ma:
+5 wierzchołków
+4 ściany
+10 krawędzi
+7 wierzchołkow
+C
+Jeżeli kąt wpisany jest oparty na średnicy, to jego miara wynosi:
+60stopni
+90stopni
+120stopni
+180stopni
+B
+Ołowek i długopis kosztują razem 1,10zł. Długopis jest droższy od ołowka o 1 zł. Ile kosztuje ołowek?
+5groszy
+10groszy
+1 zł
+1,10 zł
+A
+Sprzedawca podniosl cene towaru najpierw o 20 procent,  anastepnie obnizyl o 20 procent. Ostateczna cena towaru wynosi:
+jest taka sama jak na poczatku
+jest nizsza niz na poczatku
+jest wieksza niz na poczatku
+jest dw arazy mniejsza niz na poczatku
+B
+Pochodna funkcji f(x)=x^5+4x^3+2 jest 
+x^5+12x^2+2
+x^5+4x^3
+5x^4+12x^2
+5x
+C
+Ile wynosi całka z cosxdx?
+sinx+C
+cosx+C
+-sinx+C
+tgx+C
+A
+Ile wynosi cosinus 30stopni?
+1
+1/2
+pierwiastek z 3 nad 2
+pierwiastek z 2 nad 2 
+C
+W ciągu arytmetycznym, okreslonym a1=7 i a8=-49, suma osmiu poczatkowych wyrazow tego ciagu jest rowna:
+168
+-168
+186
+-186
+B
+Rzucamy 2 razy moneta, jakkie jest prawdopodobienstwo, ze wypadnie orzel?
+1/4
+1/2
+1/3
+2/3
+A
